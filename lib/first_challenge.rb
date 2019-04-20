@@ -23,9 +23,13 @@ def first_challenge
        },
        :matraich => {
          :name => " Lady Capulet"
-         :age => 1
+         :age => "51"
        },
-       :heroine => {}, 
+       :heroine => {
+         :name => "Juliet"
+         :age => "15"
+         :status => "alive"
+       }, 
        :heroine_friends => []
        
      }
